@@ -120,9 +120,10 @@ nav {
    width: 100%;
    transform: scale(1.5);
    padding-top: 8px;
-    
-    }
-    }
+}
+.about-me__image {
+    max-width: 500px;
+}    
 
 
  
